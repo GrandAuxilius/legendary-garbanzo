@@ -1,0 +1,11 @@
+Practice 5-04
+
+After watching the **Sessions Tutorials** answer the following:
+
+What function do we use to start a session? 
+The function used to start a session is session_start(). This function must be called before attempting to set or get any session variables.
+
+Where are these session variables stored?
+$_SESSION
+Session variables are typically stored on the server in a file or database.
+ 
